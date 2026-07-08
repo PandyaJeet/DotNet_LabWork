@@ -1,0 +1,15 @@
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/bin/Debug/net10.0/HelloWorld
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/HelloWorld.sourcelink.json
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/workspaces/DotNet_LabWork/Lab1/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
