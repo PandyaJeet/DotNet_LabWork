@@ -1,0 +1,15 @@
+/workspaces/DotNet_LabWork/Lab1/Loop/bin/Debug/net10.0/Loop
+/workspaces/DotNet_LabWork/Lab1/Loop/bin/Debug/net10.0/Loop.deps.json
+/workspaces/DotNet_LabWork/Lab1/Loop/bin/Debug/net10.0/Loop.runtimeconfig.json
+/workspaces/DotNet_LabWork/Lab1/Loop/bin/Debug/net10.0/Loop.dll
+/workspaces/DotNet_LabWork/Lab1/Loop/bin/Debug/net10.0/Loop.pdb
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/Loop.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/Loop.AssemblyInfoInputs.cache
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/Loop.AssemblyInfo.cs
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/Loop.csproj.CoreCompileInputs.cache
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/Loop.sourcelink.json
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/Loop.dll
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/refint/Loop.dll
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/Loop.pdb
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/Loop.genruntimeconfig.cache
+/workspaces/DotNet_LabWork/Lab1/Loop/obj/Debug/net10.0/ref/Loop.dll
