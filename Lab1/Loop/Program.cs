@@ -15,11 +15,11 @@ class Hello
     }
     static void Main()
     {
-        Hello.loop();
+        Hello.pyramid();
     }
     static void triangle()
     {
-        Console.WriteLine("Enter number of rows : ");
+        Console.Write("Enter number of rows : ");
         int n = Convert.ToInt32(Console.ReadLine());
         for (int i = 0; i <= n; i++)
         {
@@ -28,6 +28,46 @@ class Hello
                 Console.Write("*");
             }
             Console.Write("\n");
+        }
+    }
+    static void inversetriangle()
+    {
+        Console.Write("Enter number of rows : ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        int space = n;
+        for (int i = 0; i <= n; i++)
+        {
+            for (int k = space; k >= 1; k--)
+            {
+                Console.Write(' ');
+            }
+            space--;
+                for (int j = 0; j <= i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.Write("\n");
+            
+        }
+    }
+    static void pyramid()
+    {
+        Console.Write("Enter number of rows : ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        int space = n;
+        for (int i = 0; i < n; i++)
+        {
+            for (int k = space; k >= 1; k--)
+            {
+                Console.Write(' ');
+            }
+            space--;
+                for (int j = 0; j <= i*2; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.Write("\n");
+            
         }
     }
 }
