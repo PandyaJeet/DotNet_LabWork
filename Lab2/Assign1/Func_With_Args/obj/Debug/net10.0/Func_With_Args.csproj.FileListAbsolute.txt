@@ -1,0 +1,15 @@
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/bin/Debug/net10.0/Func_With_Args
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/bin/Debug/net10.0/Func_With_Args.deps.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/bin/Debug/net10.0/Func_With_Args.runtimeconfig.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/bin/Debug/net10.0/Func_With_Args.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/bin/Debug/net10.0/Func_With_Args.pdb
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/Func_With_Args.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/Func_With_Args.AssemblyInfoInputs.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/Func_With_Args.AssemblyInfo.cs
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/Func_With_Args.csproj.CoreCompileInputs.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/Func_With_Args.sourcelink.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/Func_With_Args.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/refint/Func_With_Args.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/Func_With_Args.pdb
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/Func_With_Args.genruntimeconfig.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Func_With_Args/obj/Debug/net10.0/ref/Func_With_Args.dll

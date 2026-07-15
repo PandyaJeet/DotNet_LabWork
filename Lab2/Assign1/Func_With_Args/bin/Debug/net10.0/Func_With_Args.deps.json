@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Func_With_Args/1.0.0": {
+        "runtime": {
+          "Func_With_Args.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Func_With_Args/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
