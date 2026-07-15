@@ -1,0 +1,15 @@
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/bin/Debug/net10.0/Inherit
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/bin/Debug/net10.0/Inherit.deps.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/bin/Debug/net10.0/Inherit.runtimeconfig.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/bin/Debug/net10.0/Inherit.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/bin/Debug/net10.0/Inherit.pdb
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/Inherit.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/Inherit.AssemblyInfoInputs.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/Inherit.AssemblyInfo.cs
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/Inherit.csproj.CoreCompileInputs.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/Inherit.sourcelink.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/Inherit.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/refint/Inherit.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/Inherit.pdb
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/Inherit.genruntimeconfig.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Inherit/obj/Debug/net10.0/ref/Inherit.dll

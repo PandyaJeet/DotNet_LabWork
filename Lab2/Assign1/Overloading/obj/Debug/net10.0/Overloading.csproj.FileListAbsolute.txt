@@ -1,0 +1,15 @@
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/bin/Debug/net10.0/Overloading
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/bin/Debug/net10.0/Overloading.deps.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/bin/Debug/net10.0/Overloading.runtimeconfig.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/bin/Debug/net10.0/Overloading.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/bin/Debug/net10.0/Overloading.pdb
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/Overloading.AssemblyInfoInputs.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/Overloading.AssemblyInfo.cs
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/Overloading.csproj.CoreCompileInputs.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/Overloading.sourcelink.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/Overloading.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/refint/Overloading.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/Overloading.pdb
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/Overloading.genruntimeconfig.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overloading/obj/Debug/net10.0/ref/Overloading.dll

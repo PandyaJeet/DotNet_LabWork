@@ -1,0 +1,15 @@
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/bin/Debug/net10.0/Overrirding
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/bin/Debug/net10.0/Overrirding.deps.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/bin/Debug/net10.0/Overrirding.runtimeconfig.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/bin/Debug/net10.0/Overrirding.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/bin/Debug/net10.0/Overrirding.pdb
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/Overrirding.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/Overrirding.AssemblyInfoInputs.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/Overrirding.AssemblyInfo.cs
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/Overrirding.csproj.CoreCompileInputs.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/Overrirding.sourcelink.json
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/Overrirding.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/refint/Overrirding.dll
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/Overrirding.pdb
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/Overrirding.genruntimeconfig.cache
+/workspaces/DotNet_LabWork/Lab2/Assign1/Overrirding/obj/Debug/net10.0/ref/Overrirding.dll
